@@ -1,6 +1,6 @@
 # Shield-Insurance-PowerBI
 
-[Link to Live Dashboard](https://app.powerbi.com/groups/me/reports/267cd9e3-e09b-48a0-8d20-72bbf93fc210/8776fa7705bd515c1163?experience=power-bi)
+[Link to Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzYxODIzMjQtN2VjZS00MDNmLWJiMDktOWZmZGVlOWYwMTRiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 [Link to Presentation Video](https://youtu.be/cbAMYrh1TLE)
 
