@@ -46,3 +46,44 @@ Established in 2014, Shield Insurance specializes in providing a diverse range o
 
 ## Insights from the Dashboard
 
+### General Performance
+
+- **Revenue Achievement**: Shield Insurance generated a total revenue of ₹982.25 million between November 2022 and April 2023.
+
+- **Customer Base Expansion**: During this period, the company’s customer base expanded to 27,000.
+
+- **Peak Growth Month**: March 2023 was the strongest month for customer acquisition, with 7,081 new customers joining our network.
+
+- **Top Performing Regions**:
+
+  - Delhi NCR: The leading region with 11,007 customers, generating the highest revenue of ₹401.6 million.
+    
+  - Mumbai: Secured the second spot with 6,432 customers and revenue of ₹239.5 million.
+    
+  - Hyderabad: Ranked third with 4,340 customers and a revenue of ₹160.5 million.
+
+
+### Sales Channel Performance
+
+- **Dominant Sales Mode**: The Offline Agent channel emerged as the leading revenue driver, contributing 55.67% of the total revenue, amounting to ₹550.76 million.
+
+- **Customer Acquisition Leader**: The Offline Agent channel also led in customer acquisition, accounting for 55.14% of the total customer base with 14,873 policyholders.
+
+- **March 2023 Revenue by Channel**:
+    
+  - **Offline Agent**: ₹134 million
+    
+  - **Online App**: ₹54 million
+    
+  - **Online Website**: ₹46 million
+    
+  - **Offline Direct**: ₹29 million
+
+
+### Demographic Insights
+
+- **Primary Age Group**: The 31-40 age group represents our largest customer segment, with 10,977 policyholders.
+
+- **Preferred Sales Channel**: Among customers aged 31-40, the Offline Agent channel is the most popular, attracting 5,914 policyholders.
+
+- **Highest Expected Settlements**: The 31-40 age group also has the highest anticipated settlement amount, with potential payouts totaling ₹517 million.
